@@ -1,0 +1,140 @@
+* {
+    background-color: grey;
+}
+
+
+
+.feedback {
+
+    background-color: inherit;
+    padding: 20px;
+    text-align: center;
+    /* border: 1px solid rgb(199, 13, 13); /* Gray border */
+    /* border-radius: 20px; /* Rounded borders */
+    /* border-radius: 5px; */
+    box-sizing: border-box;
+    width: 40%;
+    margin-left: 33%;
+    margin-right: 33%;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    color: rgb(62, 192, 243);
+    font-size: large;
+  
+  }
+  
+  .box-title {
+    background: none repeat scroll 0 0;
+    display: inline-block;
+    padding: 0 2px;
+    margin-left: 8em;
+  }
+  
+  input[type=text],
+  select {
+    width: 70%;
+    /* Full width */
+    padding: 12px;
+    /* Some padding */
+    border: 1px solid rgb(62, 192, 243);
+    /* Gray border */
+    border-radius: 4px;
+    /* Rounded borders */
+    box-sizing: border-box;
+    /* Make sure that padding and width stays in place */
+    margin-top: 6px;
+    /* Add a top margin */
+    margin-bottom: 16px;
+    /* Bottom margin */
+    resize: horizontal;
+    display: block;
+    background-color: rgba(48, 113, 233, 0.5);
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(252, 249, 249);
+    border-radius: 20px;
+  
+  }
+  
+  input[type=email],
+  select {
+    width: 70%;
+    /* Full width */
+    padding: 12px;
+    /* Some padding */
+    border: 1px solid rgb(62, 192, 243);
+    /* Gray border */
+    border-radius: 4px;
+    /* Rounded borders */
+    box-sizing: border-box;
+    /* Make sure that padding and width stays in place */
+    margin-top: 6px;
+    /* Add a top margin */
+    margin-bottom: 16px;
+    /* Bottom margin */
+    resize: horizontal;
+    display: block;
+    background-color: rgba(48, 113, 233, 0.5);
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(252, 249, 249);
+    border-radius: 20px;
+  
+  }
+  
+  input[type=password],
+  select {
+    width: 70%;
+    /* Full width */
+    padding: 12px;
+    /* Some padding */
+    border: 1px solid rgb(62, 192, 243);
+    /* Gray border */
+    border-radius: 4px;
+    /* Rounded borders */
+    box-sizing: border-box;
+    /* Make sure that padding and width stays in place */
+    margin-top: 6px;
+    /* Add a top margin */
+    margin-bottom: 16px;
+    /* Bottom margin */
+    resize: horizontal;
+    display: block;
+    background-color: rgba(48, 113, 233, 0.5);
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(252, 249, 249);
+    border-radius: 20px;
+  
+  }
+  
+  
+  
+  input[type=submit] {
+    background-color: rgb(62, 192, 243);
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    width: 20%;
+    margin-left: 40%;
+  }
+  
+  input[type=submit]:hover {
+    background-color: rgb(26, 129, 170);
+  }
+  
+  .field1 {
+    width: auto;
+    background-color: rgb(131, 74, 74);
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+  }
+  
+  .field2 {
+  
+    height: 700px;
+    width: auto;
+    border-radius: 20px;
+  }
